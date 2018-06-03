@@ -43,3 +43,29 @@ I'm using ubuntu for this project.
 	![enter-for-see](assets/enter-for-see.png)
 
 	![hit-name-your-module](assets/hit-name-your-module.png)
+
+=============
+
+## Exercise:
+
+	from machine import led
+
+	led.blink(IO, time_on, time_off)
+	led.fade1(IO, dutyCycle)
+	led.fade2(IO, begin_dutyCycle, end_dutyCycle)
+
+## Analysis:
+
+### Have lib: 
+
+	* modmachine.h
+	* modmachine.c 
+
+### Create lib:
+
+	* machine_led: contains functions
+
+		* blink
+		* fade1
+		* fade2
+
