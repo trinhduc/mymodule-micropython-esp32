@@ -22,7 +22,7 @@ I'm using ubuntu for this project.
 	sudo minicom -s
 	```
 
-	[setup-minicom](/assets/setup-minicom.png)
+	[setup-minicom](assets/setup-minicom.png)
 
 	After save config.
 
@@ -36,10 +36,10 @@ I'm using ubuntu for this project.
 	sudo minicom -b /dev/ttyUSB0
 	```
 
-	[first-into-minicom](/assets/first-into-minicom.png)
+	[first-into-minicom](assets/first-into-minicom.png)
 
 	Hit enter:
 
-	[enter-for-see](/assets/enter-for-see.png)
+	[enter-for-see](assets/enter-for-see.png)
 
-	[hit-name-your-module](/assets/hit-name-your-module.png)
+	[hit-name-your-module](assets/hit-name-your-module.png)
